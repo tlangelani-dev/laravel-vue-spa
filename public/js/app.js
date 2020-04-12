@@ -15597,8 +15597,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/tlangelani/Desktop/projects/laravel/laravel-vue-spa/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/tlangelani/Desktop/projects/laravel/laravel-vue-spa/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\tito\Desktop\projects\laravel\laravel-vue-spa\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\tito\Desktop\projects\laravel\laravel-vue-spa\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
